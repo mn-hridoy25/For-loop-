@@ -1,5 +1,5 @@
 // Sum of Numbers:
-// Write a program to calculate the sum of all numbers from 1 to n.
+// Write a program to calculate the sum of all numbers from 1 to 10.
 
 // Factorial Calculation:
 // Write a program to find the factorial of a given number n.
