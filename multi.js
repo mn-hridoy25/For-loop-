@@ -1,10 +1,20 @@
+// Multiplication Table:
 // Write a program to print the multiplication table of a given number n from 1 to 10.
 
-// var mul = 1;
-// var n = 10;
-for (let i = 1; i <= 10; i++) {
-    for(let j = 0;j <= i;j++){
-        console.log(j0)
+
+// Solve:-
+
+var n = Number("10");
+
+if (isNaN(n)) {
+    console.log("Please input a number");
+}
+else {
+    for (let i = 1; i <= 10; i++) {
+        // console.log(i);
+        ans = n * i;
+        // console.log(ans);
+        let mul = (`${n}*${i}= ${ans}`);
+        console.log(mul);
     }
 }
-// console.log(mul);
